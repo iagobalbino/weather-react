@@ -11,4 +11,4 @@
 
 ## Descrição
 
-Neste projeto foi criado um app de previsão do tempo utilizando React.js, para retornar o tempo atual foi utilizado a API do [Open Weather Map](https://openweathermap.org/). [link do projeto](https://owlcarousel2.github.io/OwlCarousel2/).
+Neste [projeto](https://iagobalbino.github.io/weather-react/) foi criado um app de previsão do tempo utilizando React.js, para retornar o tempo atual foi utilizado a API do [Open Weather Map](https://openweathermap.org/), para estilização foi usado CSS3 em uma folha de estilo separada.
